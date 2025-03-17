@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    max-width: 400px;
+    margin: 50px auto;
+    background: rgb(127, 121, 121);
+    padding: 20xp;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+button{
+    background: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+button:hover{
+    background:#000000;
+}
