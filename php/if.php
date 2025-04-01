@@ -1,4 +1,4 @@
-
+<?php
 
 $a = 11;
 $b = 21;
@@ -9,4 +9,6 @@ if($a> $b){
     echo " B é igual a 20";
 }elseif($a == 10){
 
-}else
+}elseif (condition) {
+    # code...
+}
